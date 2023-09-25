@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daoswap777
 - 👀 I’m interested in crypto and defi
-- 🌱 I’m currently learning solidity and truffle 
+- 🌱 I’m currently learning solidity and react and all the tools needed to be a web3 developer.
 - 💞️ I’m looking to collaborate on creating a dao or a swap exchange
 - 📫 How to reach me my github 
 
